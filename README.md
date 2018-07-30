@@ -1,2 +1,2 @@
 # sweetflow
-Angular App that connects to various CMSs using custom connectors
+SweetFlow is an Angular App that connects to various CMSs (just SugarCRM for now. More CMSs on the roadmap). SweetFlow adds an extra layer of UX to any system by consuming data through an API and presenting that data in a very particular and custom flow designed specifically for a given persona. This enables custom flows to increse performance on people when interacting with a system always when going through a particular process / flow. 
